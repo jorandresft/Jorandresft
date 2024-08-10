@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](www.linkedin.com/in/jorandresft)](https://linkedin.com/in/jorandresft) 
+[![LinkedIn](www.linkedin.com/in/jorandresft)](https://linkedin.com/in/Jorge Andres Franco Torres) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
