@@ -12,6 +12,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%287233?style=for-the-badge&logo=playwright&logoColor=white)
 ![Karate](https://img.shields.io/badge/Karate-%23121011?style=for-the-badge&logo=karate&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jorandresft&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
