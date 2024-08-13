@@ -17,7 +17,7 @@ Hello! I'm Jorge Andrés, a passionate test analyst based in Medellín, Colombia
 ![Karate](https://img.shields.io/badge/Karate-%23121011?style=for-the-badge&logo=karate&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![Serenity BDD](https://img.shields.io/badge/Serenity BDD-66cdaa?style=for-the-badge&logo=serenitybdd&logoColor=white)
+![Serenity BDD](https://img.shields.io/badge/Serenity-BDD-66cdaa?style=for-the-badge&logo=serenity-bdd&logoColor=white)
 
 
 ## 📊 GitHub Stats / Estadísticas de GitHub:
