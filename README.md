@@ -19,6 +19,7 @@ Hello! I'm Jorge Andrés, a passionate test analyst based in Medellín, Colombia
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Serenity BDD](https://img.shields.io/badge/Serenity-BDD-66cdaa?style=for-the-badge&logo=serenity-bdd&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-520968?style=for-the-badge&logo=appium&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-520968?style=for-the-badge&logo=gherkin&logoColor=white)
 
 
 ## 📊 GitHub Stats / Estadísticas de GitHub:
