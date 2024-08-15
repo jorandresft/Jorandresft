@@ -13,13 +13,13 @@ Hello! I'm Jorge Andrés, a passionate test analyst based in Medellín, Colombia
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-520968?style=for-the-badge&logo=gherkin&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-47704b?style=for-the-badge&logo=playwright&logoColor=white)
 ![Karate](https://img.shields.io/badge/Karate-%23121011?style=for-the-badge&logo=karate&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Serenity BDD](https://img.shields.io/badge/Serenity-BDD-66cdaa?style=for-the-badge&logo=serenity-bdd&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-520968?style=for-the-badge&logo=appium&logoColor=white)
-![Gherkin](https://img.shields.io/badge/Gherkin-520968?style=for-the-badge&logo=gherkin&logoColor=white)
 
 
 ## 📊 GitHub Stats / Estadísticas de GitHub:
